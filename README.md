@@ -2,7 +2,7 @@
 
 Red Wine Quality Prediction using KNN.
 
-Red wine variant of the Portuguese "Vinho Verde" wine refers to Portuguese wine that originated in the historic Minho province in the far north of the country. The main goal of this problem is to find which features of these kinds of wine are the ones that provide most information about its quality. We will also try to make a prediction of a wine's quality and check if it matches with the real quality. Although this dataset can be viewed as a classification (multiclass classification) or a regression problem, we will solve it using regression techniques.
+Red wine variant of the Portuguese "Vinho Verde" wine refers to Portuguese wine that originated in the historic Minho province in the far north of the country. The main goal of this problem is to find which features of these kinds of wine are the ones that provide most information about its quality. We will try to make a prediction of a wine's quality and check if it matches with the real quality. Although this dataset can be viewed as a classification (multiclass classification) or a regression problem, we will solve it using regression techniques.
 
 All information and data related to this problem can be found here: https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
 
